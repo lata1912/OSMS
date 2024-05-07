@@ -1,4 +1,4 @@
-<h1><b>OSMS<b> (Online Service Management System)<h1><br>
+<b>OSMS<b> (Online Service Management System)<br>
 
 It is a complete Web Application that is written in the PHP language. <br>
 It allows users to seek maintenance services at home by just making a request on this platform..

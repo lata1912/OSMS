@@ -15,4 +15,4 @@ Text Editor - VS Code<br>
 XAMPP<br>
 <h2>HOME PAGE</h2> <br>
 
-![Screenshot_7-5-2024_15335_localhost](https://github.com/lata1912/OSMS/assets/86548551/0b94f99b-7996-4d8f-99d2-2c5c26145856)
+![Screenshot_8-5-2024_134837_localhost](https://github.com/lata1912/OSMS/assets/86548551/46ed1f38-7f88-4a01-9e1d-cc43b2d75bfa)
